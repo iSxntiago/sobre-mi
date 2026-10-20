@@ -1,32 +1,21 @@
 
-# Hola, soy Santiago Corrales Álvarez 👋
+# ¡Hola! Soy Santiago Corrales Álvarez 👋
 
-### Software Development Student | Backend Developer in Progress
+### 💻 Aprendiz de Análisis y Desarrollo de Software | SENA
 
-💻 Aprendiz de **Análisis y Desarrollo de Software (ADSO) en el SENA**.  
-🚀 Aprendiendo a construir soluciones mediante código, lógica y tecnología.  
-🎯 Enfocado en backend, desarrollo web y ciberseguridad.
+Me apasiona la tecnología, la programación y la creación de soluciones digitales. Actualmente estoy fortaleciendo mis conocimientos en desarrollo de software, explorando nuevas herramientas y construyendo mis primeros proyectos.
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🚀 Sobre mí
 
-Me apasiona la tecnología y el desarrollo de software. Actualmente estoy construyendo mis bases en programación, desarrollo web y bases de datos, con el objetivo de crear aplicaciones funcionales, seguras y bien estructuradas.
+- 🎓 Estudiante de Análisis y Desarrollo de Software (ADSO) en el SENA.
+- 🌐 Interesado en el desarrollo frontend y backend.
+- 🗄️ Aprendiendo sobre bases de datos y gestión de información.
+- 🛡️ Interesado en la ciberseguridad y el hacking ético.
+- 📈 En constante aprendizaje y buscando nuevos retos.
 
-Me interesa entender no solo cómo funciona una aplicación, sino también qué sucede detrás de ella.
-
-## ⚡ Mis intereses
-
-- 🌐 **Frontend:** interfaces web modernas y funcionales.
-- ⚙️ **Backend:** lógica de negocio, APIs y desarrollo de sistemas.
-- 🗄️ **Bases de datos:** SQL, modelado y gestión de información.
-- 🛡️ **Ciberseguridad:** hacking ético y seguridad de aplicaciones.
-
-## 📚 ¿Qué quiero aprender?
-
-Quiero fortalecer mi lógica de programación, dominar las bases del desarrollo backend y aprender a construir aplicaciones web conectadas a bases de datos. También quiero explorar la ciberseguridad y desarrollar proyectos propios que me permitan aplicar lo aprendido.
-
-## 🛠️ Tecnologías en aprendizaje
+## 🛠️ Tecnologías y herramientas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,9 +25,17 @@ Quiero fortalecer mi lógica de programación, dominar las bases del desarrollo 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 🎯 Mis objetivos
+
+Quiero fortalecer mis bases de programación, aprender a desarrollar aplicaciones web completas y profundizar en el backend y las bases de datos. También quiero explorar la ciberseguridad y aplicar mis conocimientos en proyectos prácticos.
+
+## 📂 Mis proyectos
+
+Aquí iré compartiendo los proyectos que desarrolle durante mi proceso de aprendizaje, mostrando mi progreso y las habilidades que vaya adquiriendo.
+
 ---
 
-> "Every expert was once a beginner."
+### 💡 Aprendiendo hoy para construir el software del mañana.
 
 📍 Colombia | 🎓 SENA - ADSO
 
